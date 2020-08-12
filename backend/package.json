@@ -30,9 +30,11 @@
   "dependencies": {
     "boom": "^7.2.1",
     "config": "^3.3.1",
+    "kcors": "^2.2.2",
     "koa": "^2.12.1",
     "koa-bodyparser": "^4.3.0",
     "koa-router": "^9.0.1",
-    "kcors": "^2.2.2"
+    "koa-socket-2": "^1.2.0",
+    "socket.io": "^2.3.0"
   }
 }
